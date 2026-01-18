@@ -7,6 +7,7 @@ Dies sorgt für:
 2) verhindert unnötige Casts
 3) macht Code flexibler
 
+> Wichtig: Um das Lesen dieser Datei zu erleichtern, wähle in der rechten oberen Ecke den "Preview"-Modus aus.
 ---
 
 ## Wichtige Regeln:
@@ -18,9 +19,9 @@ Dies sorgt für:
 Wir schauen heute folgendes an:
 
 ### Klassen
-- Wie man eine [generische Klasse](myDataType/Box.java) erstellt. (`myDataType/Box.java`)
-- Wie man eine generische Klasse mit [mehreren generischen Parametern](myDataType/Pair.java) erstellt. (`myDataType/Pair.java`)
-- Wie man Generics auf bestimmte Typen [einschränken](myDataType/Vector3D.java) kann. (`myDataType/Vector3D.java`)
+- Wie man eine [generische Klasse](myDataType/Box.java) erstellt.
+- Wie man eine generische Klasse mit [mehreren generischen Parametern](myDataType/Pair.java) erstellt.
+- Wie man Generics auf bestimmte Typen [einschränken](myDataType/Vector3D.java) kann.
 
 
 ### Methoden
@@ -30,9 +31,9 @@ Wir schauen heute folgendes an:
 
 
 ### Interfaces
-- Wie man Generic [auf mehrere Typen einschränken](limitingProperties/Profile.java) kann. (`limitingProperties/Profile.java`)
-- Wie man ein [generisches Interface](genericInterfaces/ConcreteBox.java) in einer _konkreten_ Klasse implementiert. (`genericInterfaces/ConcreteBox.java`)
-- Wie man ein [generisches Interface](genericInterfaces/MagicBox.java) in einer _generischen_ Klasse implementiert. (`genericInterfaces/MagicBox.java`)
+- Wie man Generic [auf mehrere Typen einschränken](limitingProperties/Profile.java) kann.
+- Wie man ein [generisches Interface](genericInterfaces/ConcreteBox.java) in einer _konkreten_ Klasse implementiert.
+- Wie man ein [generisches Interface](genericInterfaces/MagicBox.java) in einer _generischen_ Klasse implementiert.
 
 ---
 
